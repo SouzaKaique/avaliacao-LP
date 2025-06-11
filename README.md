@@ -1,4 +1,4 @@
-# 💻 Exercícios de Linguagem de Programação
+# 💻 Exercícios Lista 3 - C++
 
 Repositório com soluções dos exercícios da disciplina de Linguagem de Programação. 📝
 
@@ -20,5 +20,6 @@ Este repositório contém programas desenvolvidos em C++ para prática de concei
 
 **Disciplina:** Linguagem de Programação    
 **Ano:** 2025
+
 Feito com 💻 e 🧠, por Kaique.
 
