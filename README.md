@@ -19,6 +19,6 @@ Este repositório contém programas desenvolvidos em C++ para prática de concei
 ---
 
 **Disciplina:** Linguagem de Programação    
-**Ano:** 2025 📅
+**Ano:** 2025
 Feito com 💻 e 🧠, por Kaique.
 
